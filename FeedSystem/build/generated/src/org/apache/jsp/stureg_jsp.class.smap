@@ -1,0 +1,14 @@
+SMAP
+stureg_jsp.java
+JSP
+*S JSP
+*F
++ 0 stureg.jsp
+stureg.jsp
++ 1 normal_navbar.jsp
+normal_navbar.jsp
+*L
+5,15:49
+1#1,42:64
+19#0,38:105
+*E

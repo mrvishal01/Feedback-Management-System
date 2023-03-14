@@ -1,0 +1,14 @@
+SMAP
+adminlogin_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminlogin.jsp
+adminlogin.jsp
++ 1 normal_navbar.jsp
+normal_navbar.jsp
+*L
+5,24:49
+1#1,42:73
+28#0,25:114
+*E
